@@ -1,0 +1,28 @@
+name: IZONIL
+favicon: null
+layout_spectrum: 0.13852428272366524
+typography_spectrum: 0.17152040009386837
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.01872857566922903
+  lightness: 0.16469959146343172
+  saturation: 0.3510691160336137
+  rhythmicContrast: 0.9462976260110736
+purpose: []
