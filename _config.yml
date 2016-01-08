@@ -1,7 +1,7 @@
 name: IZONIL
 favicon: null
-layout_spectrum: 0.75279
-typography_spectrum: 0.87071
+layout_spectrum: 0.76724
+typography_spectrum: 0.53647
 title: IZONIL
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3a2c5f'
-    - '#4c4c4c'
-    - '#d0d0d0'
-    - '#696969'
-    - '#8a8a8a'
+    - '#000000'
+    - '#c1c0c6'
+    - '#8f9095'
+    - '#373737'
+    - '#fefdfd'
   brandStrength: 0.01872857566922903
   lightness: 0.16469959146343172
   saturation: 0.3510691160336137
